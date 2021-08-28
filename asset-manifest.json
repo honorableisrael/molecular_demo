@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.40759947.chunk.css",
-    "main.js": "/static/js/main.85a6ba08.chunk.js",
-    "main.js.map": "/static/js/main.85a6ba08.chunk.js.map",
+    "main.css": "/static/css/main.f7e00fd7.chunk.css",
+    "main.js": "/static/js/main.becfaa40.chunk.js",
+    "main.js.map": "/static/js/main.becfaa40.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5b50bb1e.js",
     "runtime-main.js.map": "/static/js/runtime-main.5b50bb1e.js.map",
     "static/css/2.7a9f3b0b.chunk.css": "/static/css/2.7a9f3b0b.chunk.css",
     "static/js/2.8d3eee3f.chunk.js": "/static/js/2.8d3eee3f.chunk.js",
     "static/js/2.8d3eee3f.chunk.js.map": "/static/js/2.8d3eee3f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.265f837c4cb4f0a1ac195e352f5eaa00.js": "/precache-manifest.265f837c4cb4f0a1ac195e352f5eaa00.js",
+    "precache-manifest.67d6cba7235b6a25e3e133d484611168.js": "/precache-manifest.67d6cba7235b6a25e3e133d484611168.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7a9f3b0b.chunk.css.map": "/static/css/2.7a9f3b0b.chunk.css.map",
-    "static/css/main.40759947.chunk.css.map": "/static/css/main.40759947.chunk.css.map",
+    "static/css/main.f7e00fd7.chunk.css.map": "/static/css/main.f7e00fd7.chunk.css.map",
     "static/js/2.8d3eee3f.chunk.js.LICENSE": "/static/js/2.8d3eee3f.chunk.js.LICENSE",
     "static/media/index.css": "/static/media/BRFirma-Regular.f41e4eb1.ttf",
     "static/media/home.css": "/static/media/oil-pipeline.84918e04.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.5b50bb1e.js",
     "static/css/2.7a9f3b0b.chunk.css",
     "static/js/2.8d3eee3f.chunk.js",
-    "static/css/main.40759947.chunk.css",
-    "static/js/main.85a6ba08.chunk.js"
+    "static/css/main.f7e00fd7.chunk.css",
+    "static/js/main.becfaa40.chunk.js"
   ]
 }
