@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.8a851ef0.chunk.css",
-    "main.js": "/static/js/main.f9d966bb.chunk.js",
-    "main.js.map": "/static/js/main.f9d966bb.chunk.js.map",
+    "main.js": "/static/js/main.4b9771aa.chunk.js",
+    "main.js.map": "/static/js/main.4b9771aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5b50bb1e.js",
     "runtime-main.js.map": "/static/js/runtime-main.5b50bb1e.js.map",
     "static/css/2.67653402.chunk.css": "/static/css/2.67653402.chunk.css",
-    "static/js/2.a296a3ee.chunk.js": "/static/js/2.a296a3ee.chunk.js",
-    "static/js/2.a296a3ee.chunk.js.map": "/static/js/2.a296a3ee.chunk.js.map",
+    "static/js/2.9de7100f.chunk.js": "/static/js/2.9de7100f.chunk.js",
+    "static/js/2.9de7100f.chunk.js.map": "/static/js/2.9de7100f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ae8515d21e64d00c5cd9406f896173ef.js": "/precache-manifest.ae8515d21e64d00c5cd9406f896173ef.js",
+    "precache-manifest.32a183f9bc1d8942536b19991444a790.js": "/precache-manifest.32a183f9bc1d8942536b19991444a790.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.67653402.chunk.css.map": "/static/css/2.67653402.chunk.css.map",
     "static/css/main.8a851ef0.chunk.css.map": "/static/css/main.8a851ef0.chunk.css.map",
-    "static/js/2.a296a3ee.chunk.js.LICENSE": "/static/js/2.a296a3ee.chunk.js.LICENSE",
+    "static/js/2.9de7100f.chunk.js.LICENSE": "/static/js/2.9de7100f.chunk.js.LICENSE",
     "static/media/index.css": "/static/media/BRFirma-Regular.f41e4eb1.ttf",
     "static/media/home.css": "/static/media/wallpapersty.f25c002f.png",
     "static/media/Pipeline_stick.jpg": "/static/media/Pipeline_stick.7e5812f3.jpg",
@@ -22,7 +22,6 @@
     "static/media/signin.css": "/static/media/drilling-workers.ac021839.png",
     "static/media/ethlene_flame.png": "/static/media/ethlene_flame.43d1eefb.png",
     "static/media/greenbib.png": "/static/media/greenbib.23a9f8a3.png",
-    "static/media/labourers.png": "/static/media/labourers.5723c3dc.png",
     "static/media/leadengineers.jpg": "/static/media/leadengineers.e1da2ba0.jpg",
     "static/media/lightbulb.jpg": "/static/media/lightbulb.45a8f14e.jpg",
     "static/media/lightbulb.png": "/static/media/lightbulb.e0d80d12.png",
@@ -39,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.5b50bb1e.js",
     "static/css/2.67653402.chunk.css",
-    "static/js/2.a296a3ee.chunk.js",
+    "static/js/2.9de7100f.chunk.js",
     "static/css/main.8a851ef0.chunk.css",
-    "static/js/main.f9d966bb.chunk.js"
+    "static/js/main.4b9771aa.chunk.js"
   ]
 }
