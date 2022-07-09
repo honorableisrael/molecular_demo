@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.364ea4a5.css",
-    "main.js": "/static/js/main.7eaa808e.js",
+    "main.css": "/static/css/main.8325789a.css",
+    "main.js": "/static/js/main.526688a1.js",
     "static/media/yellowhelmet.jpg": "/static/media/yellowhelmet.0a992cec0a2f7c2fd411.jpg",
     "static/media/drilling-workers.png": "/static/media/drilling-workers.fdb0ad474e04c63aa753.png",
     "static/media/oil-pipeline.png": "/static/media/oil-pipeline.55d5826b054b8bd73fc8.png",
@@ -27,14 +27,15 @@
     "static/media/email.png": "/static/media/email.d9ebe7b4f6e7376040b7.png",
     "static/media/Circle-icons-briefcase.png": "/static/media/Circle-icons-briefcase.09609d395e451ce6b976.png",
     "static/media/Phone_icon.png": "/static/media/Phone_icon.a40c2be715452ecddb39.png",
+    "static/media/view-more.png": "/static/media/view-more.f0e36c58ee8f96ff0ecb.png",
     "static/media/Groupedlines.png": "/static/media/Groupedlines.f7234c5b005f376d696c.png",
     "index.html": "/index.html",
     "static/media/compass.svg": "/static/media/compass.42e1b1686789b565ce77a484bbc726d8.svg",
-    "main.364ea4a5.css.map": "/static/css/main.364ea4a5.css.map",
-    "main.7eaa808e.js.map": "/static/js/main.7eaa808e.js.map"
+    "main.8325789a.css.map": "/static/css/main.8325789a.css.map",
+    "main.526688a1.js.map": "/static/js/main.526688a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.364ea4a5.css",
-    "static/js/main.7eaa808e.js"
+    "static/css/main.8325789a.css",
+    "static/js/main.526688a1.js"
   ]
 }
