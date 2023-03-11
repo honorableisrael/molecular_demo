@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8c51d1a.css",
-    "main.js": "/static/js/main.0fc7cc8b.js",
+    "main.css": "/static/css/main.9d27f6fe.css",
+    "main.js": "/static/js/main.3d3ffb13.js",
     "static/media/yellowhelmet.jpg": "/static/media/yellowhelmet.0a992cec0a2f7c2fd411.jpg",
     "static/media/bg-box.png": "/static/media/bg-box.4286fba351716a0d67d4.png",
     "static/media/oil-pipeline.png": "/static/media/oil-pipeline.55d5826b054b8bd73fc8.png",
@@ -43,11 +43,11 @@
     "static/media/BRENTEX PETROLEUM SERVICES LIMITED logo.svg": "/static/media/BRENTEX PETROLEUM SERVICES LIMITED logo.41acb8efcde0b627c9fb97748db89176.svg",
     "static/media/bin_icon.png": "/static/media/bin_icon.4cf85250644be08b0e98.png",
     "index.html": "/index.html",
-    "main.a8c51d1a.css.map": "/static/css/main.a8c51d1a.css.map",
-    "main.0fc7cc8b.js.map": "/static/js/main.0fc7cc8b.js.map"
+    "main.9d27f6fe.css.map": "/static/css/main.9d27f6fe.css.map",
+    "main.3d3ffb13.js.map": "/static/js/main.3d3ffb13.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8c51d1a.css",
-    "static/js/main.0fc7cc8b.js"
+    "static/css/main.9d27f6fe.css",
+    "static/js/main.3d3ffb13.js"
   ]
 }
