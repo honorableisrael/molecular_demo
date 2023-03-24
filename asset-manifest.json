@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0d4b189b.css",
-    "main.js": "/static/js/main.d52bfc9b.js",
+    "main.js": "/static/js/main.04024613.js",
     "static/media/yellowhelmet.jpg": "/static/media/yellowhelmet.0a992cec0a2f7c2fd411.jpg",
     "static/media/bg-box.png": "/static/media/bg-box.4286fba351716a0d67d4.png",
     "static/media/slideorange.png": "/static/media/slideorange.8d607d8bd0929c9873c1.png",
@@ -19,6 +19,7 @@
     "static/media/whitehelmet.png": "/static/media/whitehelmet.543d651d8bea5e71b29a.png",
     "static/media/tractors.png": "/static/media/tractors.63dfcc3143fd7614f751.png",
     "static/media/slide1.png": "/static/media/slide1.2bff1a396c19f7286a6a.png",
+    "static/media/slide2.png": "/static/media/slide2.a8f507e79a9b54d25b1a.png",
     "static/media/blog_backgroundimg.png": "/static/media/blog_backgroundimg.d840facb533b493aacf9.png",
     "static/media/ethlene_flame.png": "/static/media/ethlene_flame.9144556cdc989e59ef7a.png",
     "static/media/prefooter.png": "/static/media/prefooter.1420234c0f2fefd493ab.png",
@@ -47,10 +48,10 @@
     "static/media/bin_icon.png": "/static/media/bin_icon.4cf85250644be08b0e98.png",
     "index.html": "/index.html",
     "main.0d4b189b.css.map": "/static/css/main.0d4b189b.css.map",
-    "main.d52bfc9b.js.map": "/static/js/main.d52bfc9b.js.map"
+    "main.04024613.js.map": "/static/js/main.04024613.js.map"
   },
   "entrypoints": [
     "static/css/main.0d4b189b.css",
-    "static/js/main.d52bfc9b.js"
+    "static/js/main.04024613.js"
   ]
 }
