@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d4b189b.css",
-    "main.js": "/static/js/main.04024613.js",
+    "main.css": "/static/css/main.30670ca7.css",
+    "main.js": "/static/js/main.2dd760f5.js",
     "static/media/yellowhelmet.jpg": "/static/media/yellowhelmet.0a992cec0a2f7c2fd411.jpg",
     "static/media/bg-box.png": "/static/media/bg-box.4286fba351716a0d67d4.png",
     "static/media/slideorange.png": "/static/media/slideorange.8d607d8bd0929c9873c1.png",
@@ -17,9 +17,9 @@
     "static/media/manwithflame.png": "/static/media/manwithflame.78544f962d7a3ac534bc.png",
     "static/media/Header.png": "/static/media/Header.ee62fbca49ca29d007d2.png",
     "static/media/whitehelmet.png": "/static/media/whitehelmet.543d651d8bea5e71b29a.png",
+    "static/media/slide1.png": "/static/media/slide1.136e7d3dc88c79e218a9.png",
     "static/media/tractors.png": "/static/media/tractors.63dfcc3143fd7614f751.png",
-    "static/media/slide1.png": "/static/media/slide1.2bff1a396c19f7286a6a.png",
-    "static/media/slide2.png": "/static/media/slide2.a8f507e79a9b54d25b1a.png",
+    "static/media/slide2.png": "/static/media/slide2.e376ff280c0c7f9b57b8.png",
     "static/media/blog_backgroundimg.png": "/static/media/blog_backgroundimg.d840facb533b493aacf9.png",
     "static/media/ethlene_flame.png": "/static/media/ethlene_flame.9144556cdc989e59ef7a.png",
     "static/media/prefooter.png": "/static/media/prefooter.1420234c0f2fefd493ab.png",
@@ -47,11 +47,11 @@
     "static/media/BRENTEX PETROLEUM SERVICES LIMITED logo.svg": "/static/media/BRENTEX PETROLEUM SERVICES LIMITED logo.41acb8efcde0b627c9fb97748db89176.svg",
     "static/media/bin_icon.png": "/static/media/bin_icon.4cf85250644be08b0e98.png",
     "index.html": "/index.html",
-    "main.0d4b189b.css.map": "/static/css/main.0d4b189b.css.map",
-    "main.04024613.js.map": "/static/js/main.04024613.js.map"
+    "main.30670ca7.css.map": "/static/css/main.30670ca7.css.map",
+    "main.2dd760f5.js.map": "/static/js/main.2dd760f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d4b189b.css",
-    "static/js/main.04024613.js"
+    "static/css/main.30670ca7.css",
+    "static/js/main.2dd760f5.js"
   ]
 }
