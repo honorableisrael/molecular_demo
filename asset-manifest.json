@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.796d77e6.css",
-    "main.js": "/static/js/main.ddc6efa4.js",
+    "main.js": "/static/js/main.44d80dc2.js",
     "static/media/yellowhelmet.jpg": "/static/media/yellowhelmet.0a992cec0a2f7c2fd411.jpg",
     "static/media/bg-box.png": "/static/media/bg-box.4286fba351716a0d67d4.png",
     "static/media/slideorange.png": "/static/media/slideorange.8d607d8bd0929c9873c1.png",
@@ -38,22 +38,18 @@
     "static/media/Pipeline_stick.jpg": "/static/media/Pipeline_stick.0d4241a8bfecf8158580.jpg",
     "static/media/Mobileandweb.png": "/static/media/Mobileandweb.4b08c3b0429639a86060.png",
     "static/media/email.png": "/static/media/email.d9ebe7b4f6e7376040b7.png",
-    "static/media/Jenoil Integrated logo.svg": "/static/media/Jenoil Integrated logo.fcb8abc3d2a396d6f81206d623020ca5.svg",
     "static/media/darkbg.png": "/static/media/darkbg.407522227f3855e2e0ec.png",
-    "static/media/MELCURT logo.svg": "/static/media/MELCURT logo.bdce32f3749a94401ee29c4ca3af1e3f.svg",
     "static/media/Phone_icon.png": "/static/media/Phone_icon.a40c2be715452ecddb39.png",
-    "static/media/MORPOL ENGINEERING SERVICES LTD logo.svg": "/static/media/MORPOL ENGINEERING SERVICES LTD logo.9b7aea4d0c84dc566f17914fb654e0d0.svg",
     "static/media/view-more.png": "/static/media/view-more.f0e36c58ee8f96ff0ecb.png",
     "static/media/viewicon.jpeg": "/static/media/viewicon.d67639bcfd75751d2f2e.jpeg",
     "static/media/Groupedlines.png": "/static/media/Groupedlines.f7234c5b005f376d696c.png",
-    "static/media/BRENTEX PETROLEUM SERVICES LIMITED logo.svg": "/static/media/BRENTEX PETROLEUM SERVICES LIMITED logo.41acb8efcde0b627c9fb97748db89176.svg",
     "static/media/bin_icon.png": "/static/media/bin_icon.4cf85250644be08b0e98.png",
     "index.html": "/index.html",
     "main.796d77e6.css.map": "/static/css/main.796d77e6.css.map",
-    "main.ddc6efa4.js.map": "/static/js/main.ddc6efa4.js.map"
+    "main.44d80dc2.js.map": "/static/js/main.44d80dc2.js.map"
   },
   "entrypoints": [
     "static/css/main.796d77e6.css",
-    "static/js/main.ddc6efa4.js"
+    "static/js/main.44d80dc2.js"
   ]
 }
