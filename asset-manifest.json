@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f311d50.css",
-    "main.js": "/static/js/main.4cffe6b5.js",
+    "main.js": "/static/js/main.14d14812.js",
     "static/media/yellowhelmet.jpg": "/static/media/yellowhelmet.0a992cec0a2f7c2fd411.jpg",
     "static/media/bg-box.png": "/static/media/bg-box.4286fba351716a0d67d4.png",
     "static/media/slideorange.png": "/static/media/slideorange.8d607d8bd0929c9873c1.png",
@@ -23,9 +23,9 @@
     "static/media/1.png": "/static/media/1.bedb2083baa96c6f7014.png",
     "static/media/tractors.png": "/static/media/tractors.63dfcc3143fd7614f751.png",
     "static/media/slide2.png": "/static/media/slide2.e376ff280c0c7f9b57b8.png",
+    "static/media/slide1.png": "/static/media/slide1.53b1e4611d929bfd6a12.png",
     "static/media/blog_backgroundimg.png": "/static/media/blog_backgroundimg.d840facb533b493aacf9.png",
     "static/media/ethlene_flame.png": "/static/media/ethlene_flame.9144556cdc989e59ef7a.png",
-    "static/media/slide1.png": "/static/media/slide1.1d09e8f7ab8916261b7f.png",
     "static/media/prefooter.png": "/static/media/prefooter.1420234c0f2fefd493ab.png",
     "static/media/weldingflame.png": "/static/media/weldingflame.6a54da6b53ee804e983f.png",
     "static/media/blueoverall.png": "/static/media/blueoverall.9bcb0293eede1acafe74.png",
@@ -46,10 +46,10 @@
     "static/media/bin_icon.png": "/static/media/bin_icon.4cf85250644be08b0e98.png",
     "index.html": "/index.html",
     "main.9f311d50.css.map": "/static/css/main.9f311d50.css.map",
-    "main.4cffe6b5.js.map": "/static/js/main.4cffe6b5.js.map"
+    "main.14d14812.js.map": "/static/js/main.14d14812.js.map"
   },
   "entrypoints": [
     "static/css/main.9f311d50.css",
-    "static/js/main.4cffe6b5.js"
+    "static/js/main.14d14812.js"
   ]
 }
